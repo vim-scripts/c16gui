@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	none; auto-highlighting
-" Maintainer:	Hideyuki <e27874_gmail_com>
-" Last Change:	2007 Feb 12
+" Maintainer:	Hideyuki Kobayashi <e27874_gmail_com>
+" Last Change:	2007 Nov 04
 
 " ----------- ------- ------- ------- ------- ---------
 " 255   0   0 #ff0000 #ff0000 #ff0000 #ff0000 _red_____
